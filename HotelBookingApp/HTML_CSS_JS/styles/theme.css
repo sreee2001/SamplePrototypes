@@ -1,0 +1,12 @@
+/* Theme tokens */
+:root{
+  --bg:#f6fbff;
+  --surface:#ffffff;
+  --muted:#7b8794;
+  --text:#0b2545;
+  --primary:#2563eb;
+  --accent:#10b981;
+  --danger:#ef4444;
+  --card-shadow:0 10px 30px rgba(11,37,69,0.06);
+  --radius:14px;
+}
