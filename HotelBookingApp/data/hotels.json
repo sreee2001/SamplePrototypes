@@ -1,0 +1,29 @@
+[
+  {
+    "id": "h1",
+    "name": "Seaside Resort",
+    "location": "Santa Monica, CA",
+    "rating": 4.6,
+    "price": 220,
+    "images": ["../Shared/assets/placeholder.svg"],
+    "description": "Oceanfront resort with pools, spa and beach access."
+  },
+  {
+    "id": "h2",
+    "name": "Urban Comfort Hotel",
+    "location": "San Francisco, CA",
+    "rating": 4.3,
+    "price": 180,
+    "images": ["../Shared/assets/placeholder.svg"],
+    "description": "Cozy rooms in the heart of the city near transit."
+  },
+  {
+    "id": "h3",
+    "name": "Mountain View Inn",
+    "location": "Aspen, CO",
+    "rating": 4.8,
+    "price": 300,
+    "images": ["../Shared/assets/placeholder.svg"],
+    "description": "Alpine lodge with ski access and hearty breakfasts."
+  }
+]
